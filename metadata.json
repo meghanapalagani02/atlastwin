@@ -1,0 +1,8 @@
+{
+  "name": "AtlasTwin",
+  "description": "Digital Twin Attack-Path Predictor for Bank Networks",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
